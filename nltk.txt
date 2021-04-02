@@ -1,4 +1,4 @@
 wordnet
 stopwords
 punkt
-pros_cons
+averaged_perceptron_tagger
