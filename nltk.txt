@@ -1,3 +1,1 @@
-wordnet
-stopwords
-punkt
+wordnet stopwords punkt
